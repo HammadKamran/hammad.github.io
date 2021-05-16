@@ -20,7 +20,7 @@ title                    : "Hammad's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hammad Kamran"
-description              :"Hammad works on a number of complex challenging engagements helping customers understand how practical Artificial Intelligence and Machine Learning solutions can provide business value through automation and Digital Transformation."
+description              : "Hammad works on a number of complex challenging engagements helping customers understand how practical Artificial Intelligence and Machine Learning solutions can provide business value through automation and Digital Transformation."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
